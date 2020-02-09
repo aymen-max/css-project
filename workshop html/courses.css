@@ -1,0 +1,12 @@
+h1{
+    font-size: 500%;
+    color: white;
+    background-image: url("coursesimg.png");
+    background-size: cover;
+    height: 450px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
